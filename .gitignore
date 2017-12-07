@@ -1,8 +1,10 @@
-__pycache__
 *.pyc
 .molecule
 .vagrant
 .cache
+*.log
+*.retry
+.private
 ._*
-pytestdebug.log
 *.swp
+*.tmp
